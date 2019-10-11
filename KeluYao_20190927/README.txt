@@ -1,1 +1,2 @@
-The title is: what is explainable AI and a reading report of Interpreting CNN Knowledge via an Explanatory Graph 
+The paper: Interpreting CNN Knowledge via an Explanatory Graph 
+https://arxiv.org/pdf/1708.01785.pdf
