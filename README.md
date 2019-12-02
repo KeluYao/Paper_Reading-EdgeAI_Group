@@ -27,3 +27,9 @@ Huffman Coding](https://arxiv.org/abs/1510.00149)
 
 * 20191101 Yangchu Yan
     * The Paper: [MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258)
+
+* 20191108 Yuzhu Mei
+    * The Paper: [A Survey of Virtual Machine Management in Edge Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772112)
+	
+* 20191101 Ying Chen
+    * The Paper: [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
