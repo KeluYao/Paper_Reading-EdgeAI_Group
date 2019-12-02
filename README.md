@@ -31,5 +31,5 @@ Huffman Coding](https://arxiv.org/abs/1510.00149)
 * 20191108 Yuzhu Mei
     * The Paper: [A Survey of Virtual Machine Management in Edge Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8772112)
 	
-* 20191101 Ying Chen
+* 20191129 Ying Chen
     * The Paper: [Learning Efficient Object Detection Models with Knowledge Distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation.pdf)
